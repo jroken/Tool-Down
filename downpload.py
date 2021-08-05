@@ -66,7 +66,6 @@ elif (secim=="4"):
     os.system("git clone https://github.com/offensive-security/exploitdb")
 
 elif (secim=="5"):
-    os.system("cd ..")
     os.system("git clone https://github.com/CiKu370/OSIF")
 
 elif (secim=="6"):
